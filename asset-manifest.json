@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vitoorfraga/Conversor-Reactjs/static/css/main.601845b0.chunk.css",
+    "main.js": "/vitoorfraga/Conversor-Reactjs/static/js/main.85942d74.chunk.js",
+    "main.js.map": "/vitoorfraga/Conversor-Reactjs/static/js/main.85942d74.chunk.js.map",
+    "runtime-main.js": "/vitoorfraga/Conversor-Reactjs/static/js/runtime-main.806baab4.js",
+    "runtime-main.js.map": "/vitoorfraga/Conversor-Reactjs/static/js/runtime-main.806baab4.js.map",
+    "static/js/2.b86299ed.chunk.js": "/vitoorfraga/Conversor-Reactjs/static/js/2.b86299ed.chunk.js",
+    "static/js/2.b86299ed.chunk.js.map": "/vitoorfraga/Conversor-Reactjs/static/js/2.b86299ed.chunk.js.map",
+    "static/js/3.83f199b6.chunk.js": "/vitoorfraga/Conversor-Reactjs/static/js/3.83f199b6.chunk.js",
+    "static/js/3.83f199b6.chunk.js.map": "/vitoorfraga/Conversor-Reactjs/static/js/3.83f199b6.chunk.js.map",
+    "index.html": "/vitoorfraga/Conversor-Reactjs/index.html",
+    "static/css/main.601845b0.chunk.css.map": "/vitoorfraga/Conversor-Reactjs/static/css/main.601845b0.chunk.css.map",
+    "static/js/2.b86299ed.chunk.js.LICENSE.txt": "/vitoorfraga/Conversor-Reactjs/static/js/2.b86299ed.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vitoorfraga/Conversor-Reactjs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.806baab4.js",
+    "static/js/2.b86299ed.chunk.js",
+    "static/css/main.601845b0.chunk.css",
+    "static/js/main.85942d74.chunk.js"
+  ]
+}
